@@ -1,3 +1,0 @@
-projreset();
-clear all;
-clc;

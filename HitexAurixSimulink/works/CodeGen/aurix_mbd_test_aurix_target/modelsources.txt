@@ -1,2 +1,0 @@
-  aurix_mbd_test.c
-
